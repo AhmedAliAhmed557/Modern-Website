@@ -18,7 +18,7 @@ export default function RootLayout({
 			<head>
 				<link
 					rel='icon'
-					href='/boat.png'
+					href='/	boat.png'
 				/>
 			</head>
 			<body>
